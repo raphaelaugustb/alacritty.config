@@ -4,7 +4,7 @@ you continue with it or building by your own from this source
 ## Installation
 ![Alacritty](https://github.com/raphaelaugustb/terminal.config/blob/main/alacritty/alacritty.md)
 
-![Kitty](https://github.com/raphaelaugustb/terminal.config/tree/main/kitty)
+![Kitty](https://github.com/raphaelaugustb/terminal.config/blob/main/kitty/kitty.md)
 
 ## Examples 
 #### Alacritty
