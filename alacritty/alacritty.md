@@ -1,10 +1,16 @@
 #  Alacritty 
 
-## Instaliing alacritty.toml
+## Install JetBrains Nerd Font or customize on .toml
+```
+https://www.nerdfonts.com/font-downloads
+```
+
+
+## Installing alacritty.toml
 
 ### Clone repository
 ```
-https://github.com/raphaelaugustb/terminal.config/alacritty
+git clone https://github.com/raphaelaugustb/terminal.config/alacritty
 ```
 
 
