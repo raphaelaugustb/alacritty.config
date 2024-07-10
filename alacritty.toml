@@ -1,0 +1,51 @@
+import = [
+    "~/.config/alacritty/themes/themes/aura.toml"
+]
+
+[cursor]
+unfocused_hollow = true
+vi_mode_style = "Beam"
+
+[cursor.style]
+blinking = "Off"
+shape = "Block"
+
+[font]
+size =10.5
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+
+[window]
+title = "Terminal"
+dynamic_title = false
+opacity = 0.98
+startup_mode = "Windowed"
+
+[window.dimensions]
+columns = 120
+lines = 32  
+
+[window.padding]
+x = 0
+y = 0
+
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[window.position]
+x = 500
+y = 100
+
+[mouse]
+hide_when_typing = true 
