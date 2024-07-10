@@ -1,7 +1,10 @@
 ## You can get all themes on 
 https://github.com/alacritty/alacritty-theme
 
-## Or by command line
-# We use Alacritty's default Linux config directory as our storage location here.
+## Via command line
+
+```
 mkdir -p ~/.config/alacritty/themes
 git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/themes
+```
+bash
